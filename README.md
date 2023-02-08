@@ -1,3 +1,8 @@
+#Screenshots
+
+![moviehub 1](https://user-images.githubusercontent.com/68685595/217615838-a9801004-f56e-44f4-bee1-45e4b0504193.png)
+![moviehub 2](https://user-images.githubusercontent.com/68685595/217615849-80c39205-4b52-4d6e-8bca-14de3e1737eb.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
