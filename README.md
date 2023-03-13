@@ -1,5 +1,5 @@
 ##Deployed on Netlify
-https://beautiful-kashata-6df70e.netlify.app/
+https://vipul-moviehub.netlify.app
 
 Screenshots
 
